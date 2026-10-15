@@ -1,0 +1,37 @@
+{
+  "name": "Mario Kart 8",
+  "titleIds": [
+    "000500001010ED00"
+  ],
+  "mods": [
+    {
+      "id": "firstpersoncamera",
+      "name": "first person camera",
+      "type": "mod",
+      "version": "Unbekannt",
+      "author": "_Ro",
+      "description": "Kamera der ersten Person",
+      "download": "https://gamebanana.com/dl/1329641",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/65899df3b3d32.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/65899df3b3d32.jpg"
+      ],
+      "tags": [
+        "Mario-Kart-8"
+      ]
+    },
+    {
+      "id": "thomas",
+      "name": "Thomas die Lokomotive",
+      "type": "mod",
+      "version": "Unbekannt",
+      "author": "WAME64",
+      "description": "Thomas die Lokomotive",
+      "download": "https://gamebanana.com/dl/1595516",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_695aa3230d598_530.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/695aa3323457c.jpg"
+      ]
+    }
+  ]
+}
